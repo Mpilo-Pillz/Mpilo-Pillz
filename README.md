@@ -1,5 +1,10 @@
-### Hi there 👋
+### Yaw Yaw Yaw 👋
 
+- 🌱 I’m currently learning iOS 📱 and Swift 
+- 🛠 I currently work primarily with JavaScript (Express, Angular 1) and TypeScript (React, Angular 2+)
+- 🐍 I script and automate with Python
+- 🔭 I’m currently working on my personal website with Vue and Express
+- ⚡ Fun fact: This profile is not complete
 <!--
 **Mpilo-Pillz/Mpilo-Pillz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
