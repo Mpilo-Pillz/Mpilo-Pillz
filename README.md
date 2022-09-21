@@ -7,9 +7,10 @@
 - ⚡ Fun fact: This profile is not complete
 
 # Want to see my code?
-***Code to my Web portfolio projects can be found on the link below: ***
+***Code to my Web portfolio projects can be found on the links below: ***
 ### React with TypeScript
 - https://github.com/Mpilo-Pillz/portfolio-project-places
+- https://github.com/Mpilo-Pillz/react-zustand-comment
 
 ***Code to my iOS portfolio projects done using UIKit programatically can be found on the link below: ***
 - https://github.com/Mpilo-Pillz/portfolio-project-uikit-dice
