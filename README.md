@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on my personal website with Vue and Express
 - ⚡ Fun fact: This profile is not complete
 
-# Want to see my code?
+# Looking to view my code?
 ***Code to my Web portfolio projects can be found on the links below: ***
 ### React with TypeScript
 - https://github.com/Mpilo-Pillz/portfolio-project-places
