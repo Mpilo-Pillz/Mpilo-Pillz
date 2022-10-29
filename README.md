@@ -1,5 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mpilo-Pillz)](https://git.io/streak-stats)
-<img src="https://img.sheilds.io/badge/JavaScript-000000.svg?style-for-the-badge&logo=javascript&logoColor=f7E017"
+<img src="https://img.sheilds.io/badge/JavaScript-000000.svg?style-for-the-badge&logo=javascript&logoColor=f7E017" />
 
 <p align="center">
   
