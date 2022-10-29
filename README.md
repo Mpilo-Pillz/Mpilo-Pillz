@@ -1,10 +1,20 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mpilo-Pillz)](https://git.io/streak-stats)
-<img src="https://img.sheilds.io/badge/JavaScript-000000.svg?style-for-the-badge&logo=javascript&logoColor=f7E017" />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
+  <img src="https://img.shields.io/badge/TypeScript-04ECF0.svg?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Swift-00AED8.svg?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+</div>
 
 <p align="center">
-  
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpilo-Pillz&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpilo-Pillz&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Mpilo-Pillz&custom_title=Mpilo%27s%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545"/>
 </p>
 ### Yaw Yaw Yaw 👋
 
