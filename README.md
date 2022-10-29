@@ -1,3 +1,5 @@
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mpilo-Pillz)](https://git.io/streak-stats)
 ### Yaw Yaw Yaw 👋
 
 - 🌱 I’m currently learning iOS 📱 and Swift 
