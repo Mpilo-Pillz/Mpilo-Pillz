@@ -37,6 +37,7 @@
 
 **_Code to my iOS portfolio projects done using UIKit programatically can be found on the link below: _**
 
+- https://github.com/Mpilo-Pillz/portfolio-project-cinema-planner
 - https://github.com/Mpilo-Pillz/portfolio-project-uikit-dice
 <!--
 **Mpilo-Pillz/Mpilo-Pillz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
