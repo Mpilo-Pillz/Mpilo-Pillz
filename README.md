@@ -1,6 +1,7 @@
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mpilo-Pillz)](https://git.io/streak-stats)
+</div>
 <br>
-
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpilo-Pillz&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
