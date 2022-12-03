@@ -28,15 +28,16 @@
 
 # Looking to view my code?
 
-**_Code to my Web portfolio projects can be found on the links below: _**
+** Code to my Web portfolio projects can be found on the links below: **
 
 ### React with TypeScript
 
 - https://github.com/Mpilo-Pillz/portfolio-project-places
 - https://github.com/Mpilo-Pillz/react-zustand-comment
 
-**_Code to my iOS portfolio projects done using UIKit programatically can be found on the link below: _**
+** Code to my iOS portfolio projects done using UIKit programatically can be found on the link below: **
 
+- https://github.com/Mpilo-Pillz/portfolio-project-cinema-planner
 - https://github.com/Mpilo-Pillz/portfolio-project-uikit-dice
 <!--
 **Mpilo-Pillz/Mpilo-Pillz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
